@@ -6,7 +6,7 @@
 
 ## Overview of Project
 In the first challenge, I made a chart to visualize the outcomes of the campaigns in a pivot chart. 
-In the second challenge, I made a line chart showing the percentage of the otcomes reaching a goal amount.
+In the second challenge, I made a line chart showing the percentage of the ootcomes reaching a goal amount.
 
 
 ## Analysis and Challenges
